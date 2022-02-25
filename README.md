@@ -100,7 +100,7 @@ without leaving your R session using this package. If you are not running
 Fedora >= 33, you can set up a proper environment using docker.
 
 ```bash
-$ docker run --rm -it fedora:33
+$ docker run --rm -it fedora:rawhide
 ```
 
 The following command installs R and all the optimized BLAS/LAPACK backends
@@ -112,7 +112,13 @@ $ dnf install R flexiblas-*
 
 ### Package
 
-Install the release version from CRAN:
+Within the environment above, it can be installed from the official repos:
+
+```bash
+$ dnf install R-flexiblas
+```
+
+or install the release version from CRAN:
 
 ``` r
 install.packages("flexiblas")
