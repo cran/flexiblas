@@ -1,7 +1,7 @@
 Package: flexiblas
 Type: Package
 Title: 'FlexiBLAS' API Interface
-Version: 3.1.0
+Version: 3.3.0
 Authors@R: c(
     person("Iñaki", "Ucar", email="iucar@fedoraproject.org",
       role=c("aut", "cph", "cre"), comment=c(ORCID="0000-0001-6403-5550")),
@@ -19,9 +19,9 @@ BugReports: https://github.com/Enchufa2/r-flexiblas/issues
 Suggests: tinytest
 RoxygenNote: 7.1.1
 NeedsCompilation: yes
-Packaged: 2022-02-25 15:42:42 UTC; iucar
+Packaged: 2023-01-09 22:45:18 UTC; iucar
 Author: Iñaki Ucar [aut, cph, cre] (<https://orcid.org/0000-0001-6403-5550>),
   Martin Koehler [aut, cph] (<https://orcid.org/0000-0003-2338-9904>)
 Maintainer: Iñaki Ucar <iucar@fedoraproject.org>
 Repository: CRAN
-Date/Publication: 2022-02-25 23:30:12 UTC
+Date/Publication: 2023-01-09 23:00:02 UTC

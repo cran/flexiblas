@@ -1,10 +1,10 @@
-cdcd61044aa161e7e47a1d2066626c4c *DESCRIPTION
+b3d8b3e0fdf7553eb2de60c78b13d9a2 *DESCRIPTION
 bdf6bc135f62a9f4ee0ef29da50b80d7 *NAMESPACE
-558594f2ee25a932af4f4078e3b065aa *NEWS.md
+80901c9bbe9859a3f451657ff928b346 *NEWS.md
 abfd98199ed62404da079b6b115f8d2c *R/flexiblas.R
 29496f6334603031de1ee685d6f22a59 *R/wrapper.R
 e0412356f1f691efef42c5115e6fff7d *README.md
-ea107c4c9fafac5914ff128ef70acbac *build/partial.rdb
+ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
 f5dbd2cea1728390a18c75a8952a08d9 *inst/tinytest/test_all.R
 f26f63d4e83f7306941d8db7a8b97047 *man/flexiblas-backends.Rd
 fb72f688a678186c8baae68c5edae2ab *man/flexiblas-package.Rd
@@ -12,7 +12,7 @@ fb72f688a678186c8baae68c5edae2ab *man/flexiblas-package.Rd
 a5b1b1db2a955fa56f0c0a7d51b785e3 *man/flexiblas_avail.Rd
 cbadfb7e8c7e49440e9d902cf4104603 *man/flexiblas_version.Rd
 6eec604f51c9df7bbd0a8b020af111bd *src/flexiblas_api.h
-2a9e98d8781a5740b9b788e24e9fc10e *src/flexiblas_api_standalone.c
-5d1aeec896215db9509afb7fd83e722d *src/init.c
-c1ecb4a1ba8275a0c7cc03537a498d40 *src/wrapper.c
+89de3648bc53f0e3ef28f9eb2c0ad101 *src/flexiblas_api_standalone.c
+b08b2015da3c47df9e817afefb25d4b1 *src/init.c
+c2df336d07a26f893ea5bbf328068ff5 *src/wrapper.c
 d9e7ffcd3790e4f1e4ccbcc02e54ec6f *tests/tinytest.R
